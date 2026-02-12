@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-deps-risk
+name: dice-proto-deps-risk
 description: "Analyze dependencies, compatibility, and security/stability risks"
 ---
 
@@ -23,7 +23,8 @@ Then:
      - `data.table`
      - `collapse`
      - `rlang`
-   - When reasonable, suggest implementations that better fit this stack.
+     - `tidyverse`
+   - When reasonable, suggest implementations that better fit this stack. 
 
 3. **Security and stability**
    - Flag any:

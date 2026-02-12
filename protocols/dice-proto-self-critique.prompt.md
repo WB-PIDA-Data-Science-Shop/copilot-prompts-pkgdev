@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-self-critique
+name: dice-proto-self-critique
 description: "Ask Copilot to critique its own generated code rigorously"
 ---
 

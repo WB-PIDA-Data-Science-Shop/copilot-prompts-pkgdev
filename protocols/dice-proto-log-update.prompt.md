@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-log-update
+name: dice-proto-log-update
 description: "Update the task progress log with new information"
 argument-hint: "TASK_NAME for copilot_logs/LOG_TASK_NAME.md"
 ---

@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-explain-code
+name: dice-proto-explain-code
 description: "Explain code step-by-step and surface assumptions"
 ---
 

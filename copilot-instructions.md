@@ -1,6 +1,6 @@
 # Copilot Instructions for This Repository
 
-This repository belongs to the GPID technical team.  
+This repository belongs to the dice technical team.  
 We follow **mandatory protocols** when using GitHub Copilot for technical work.
 
 ## 1. General behavior

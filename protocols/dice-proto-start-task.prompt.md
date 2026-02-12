@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-start-task
+name: dice-proto-start-task
 description: "Start a Copilot-assisted task and initialize logging"
 ---
 

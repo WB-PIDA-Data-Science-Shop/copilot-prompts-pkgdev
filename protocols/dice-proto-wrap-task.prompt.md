@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-wrap-task
+name: dice-proto-wrap-task
 description: "Create the final task summary and validation bundle"
 argument-hint: "TASK_NAME for copilot_logs/TASK_NAME.md"
 ---

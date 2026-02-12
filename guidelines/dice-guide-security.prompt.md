@@ -1,5 +1,5 @@
 ---
-name: gpid-guide-security
+name: dice-guide-security
 description: Security-aware review guideline requiring confirmation of sensitive data redaction before processing.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-review-efficiency
+name: dice-proto-review-efficiency
 description: "Review code for inefficiencies and unnecessary complexity"
 ---
 

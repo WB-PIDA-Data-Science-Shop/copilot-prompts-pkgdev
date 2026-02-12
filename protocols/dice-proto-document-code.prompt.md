@@ -1,5 +1,5 @@
 ---
-name: gpid-proto-document-code
+name: dice-proto-document-code
 description: "Add comments and Roxygen2 documentation for R/Stata code"
 ---
 
@@ -24,7 +24,7 @@ Then follow this protocol:
      - `@return`
      - `@examples` (when helpful and not trivial)
      - `@import` / `@importFrom` only when truly needed.
-   - Prefer our usual stack (`data.table`, `collapse`, `rlang`) when appropriate.
+   - Prefer our usual stack (`data.table`, `collapse`, `rlang`, `tidyverse`) when appropriate.
 
 3. **Plain-language explanation**
    - At the end, write a short, plain-language explanation of how the main function(s) work, suitable for a teammate reading them for the first time.
