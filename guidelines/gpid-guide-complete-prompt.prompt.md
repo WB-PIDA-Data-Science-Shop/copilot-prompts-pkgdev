@@ -1,5 +1,5 @@
 ---
-name: gpid-guide-complete-prompt
+name: dice-guide-complete-prompt
 description: Complete prompt for coding tasks with context, task, constraints, and example I/O.
 ---
 
