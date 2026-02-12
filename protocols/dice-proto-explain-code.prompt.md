@@ -3,7 +3,7 @@ name: dice-proto-explain-code
 description: "Explain code step-by-step and surface assumptions"
 ---
 
-You will be asked to explain a function, test file, or script (usually R or Stata).
+You will be asked to explain a function, test file, or script (usually R or Python).
 
 If the context is ambiguous, first ask me **what code or file you should focus on** (e.g., current selection, specific function, or file).
 
@@ -20,7 +20,7 @@ Then follow this protocol:
    - Explicitly list assumptions about:
      - input types, shapes, and ranges
      - required columns / variables
-     - expected data structure (e.g., data.table, Stata dataset)
+     - expected data structure (e.g., data.table, data.frame, tibble etc)
      - external dependencies or files
 
 4. **Failure points**

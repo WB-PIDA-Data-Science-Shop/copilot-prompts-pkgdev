@@ -3,7 +3,7 @@ name: dice-proto-start-task
 description: "Start a Copilot-assisted task and initialize logging"
 ---
 
-You are assisting a World Bank technical team (R + Stata) following strict Copilot protocols.
+You are assisting a World Bank technical team (R, and maybe Python) following strict Copilot protocols.
 
 We are starting a **new Copilot-assisted task**.
 

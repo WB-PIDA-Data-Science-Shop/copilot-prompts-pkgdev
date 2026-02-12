@@ -1,9 +1,9 @@
 ---
 name: dice-proto-document-code
-description: "Add comments and Roxygen2 documentation for R/Stata code"
+description: "Add comments and Roxygen2 documentation for R code (and Python when in use)"
 ---
 
-You will be given one or more functions or scripts, mainly in **R** (often using `data.table`, `collapse`, `rlang`) and sometimes **Stata**.
+You will be given one or more functions or scripts, mainly in **R** (often using `data.table`, `collapse`, `rlang`, `tidyverse` packages)*.
 
 If it is unclear what code to document, first ask me **which function/file/selection** to use.
 

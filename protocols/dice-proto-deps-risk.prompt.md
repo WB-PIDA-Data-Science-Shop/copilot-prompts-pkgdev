@@ -3,7 +3,7 @@ name: dice-proto-deps-risk
 description: "Analyze dependencies, compatibility, and security/stability risks"
 ---
 
-You are reviewing dependencies and risks for Copilot-assisted code in R or Stata.
+You are reviewing dependencies and risks for Copilot-assisted code in R (and sometimes in Python).
 
 If it is unclear what code to inspect, ask me **which file/selection** to analyze.
 

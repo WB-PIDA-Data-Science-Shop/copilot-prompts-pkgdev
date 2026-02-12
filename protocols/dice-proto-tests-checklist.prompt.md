@@ -25,17 +25,11 @@ Then follow this protocol:
      - missing values
      - extreme or unusual data scenarios
 
-3. **Stata tests**
-   - When the code is in Stata, generate a do-file with assertions/checks for:
-     - realistic data
-     - corner cases
-     - unexpected or malformed inputs
-
-4. **Performance-sensitive checks (optional)**
-   - If the code is performance-critical or uses large data, propose tests that:
+3. **Performance-sensitive checks (optional)**
+   - If the code is performance-critical or uses or is expected to use large data (please ask the user about this), propose tests that:
      - stress memory usage
      - expose slow operations or unnecessary copies
 
 Return:
 - the validation checklist (Markdown)  
-- the test code (R `testthat` or Stata do-file) ready to be added to the repository  
+- the test code (R `testthat`) ready to be added to the repository  

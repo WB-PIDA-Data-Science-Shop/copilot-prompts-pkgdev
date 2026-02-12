@@ -26,7 +26,7 @@ Then:
    - edge cases likely to break the code
 
 4. **Opportunities to use our preferred stack**
-   - places where `data.table`, `collapse`, or `rlang` (in R) would lead to clearer or more efficient code, when appropriate for the project.
+   - places where `data.table`, `collapse`, `tidyverse` or `rlang` (in R) would lead to clearer or more efficient code, when appropriate for the project.
 
 5. **Concrete improvements**
    - For each issue:
