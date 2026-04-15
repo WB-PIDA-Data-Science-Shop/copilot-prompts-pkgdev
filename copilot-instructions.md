@@ -6,7 +6,7 @@ We follow **mandatory protocols** when using GitHub Copilot for technical work.
 ## 1. General behavior
 
 - Treat Copilot as an assistant, not a replacement for engineering judgment.
-- Prefer our core stack in R: `data.table`, `collapse`, `rlang`, and base R where appropriate.
+- Prefer our core stack in R: `data.table`, `collapse`, `rlang`, `tidyverse`, and base R where appropriate.
 - Avoid unnecessary dependencies and over-complicated patterns.
 - Always assume that code will be maintained by other teammates.
 
